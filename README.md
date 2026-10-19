@@ -1,6 +1,6 @@
 # lclfans.github.io
 
-个人技术主页，展示端侧 AI、实时语音与机器人系统相关经验和项目 Demo。
+简洁的个人技术主页，按照个人简介原文展示端侧 AI、实时语音与机器人系统相关经验和项目 Demo。
 
 ## 目录结构
 
@@ -8,8 +8,7 @@
 .
 ├── index.html                  # GitHub Pages 入口
 ├── assets/
-│   ├── css/styles.css          # 页面样式与响应式布局
-│   ├── js/main.js              # 导航、视频互斥播放、复制邮箱
+│   ├── css/styles.css          # 简洁页面样式与响应式布局
 │   ├── icons/favicon.svg
 │   ├── images/posters/         # 项目视频封面
 │   └── videos/                 # 项目 Demo 视频
